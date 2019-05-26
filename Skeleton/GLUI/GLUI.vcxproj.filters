@@ -1,0 +1,201 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="glui_img_checkbox_0.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="glui_img_checkbox_0_dis.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="glui_img_checkbox_1.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="glui_img_checkbox_1_dis.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="glui_img_downarrow.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="glui_img_leftarrow.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="glui_img_listbox_down.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="glui_img_listbox_up.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="glui_img_listbox_up_dis.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="glui_img_radiobutton_0.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="glui_img_radiobutton_0_dis.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="glui_img_radiobutton_1.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="glui_img_radiobutton_1_dis.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="glui_img_rightarrow.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="glui_img_spindown_0.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="glui_img_spindown_1.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="glui_img_spindown_dis.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="glui_img_spinup_0.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="glui_img_spinup_1.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="glui_img_spinup_dis.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="glui_img_uparrow.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="algebra3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="arcball.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="glui.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="glui_add_controls.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="glui_bitmaps.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="glui_button.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="glui_checkbox.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="glui_column.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="glui_commandline.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="glui_control.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="glui_edittext.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="glui_filebrowser.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="glui_list.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="glui_listbox.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="glui_mouse_iaction.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="glui_node.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="glui_panel.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="glui_radio.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="glui_rollout.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="glui_rotation.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="glui_scrollbar.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="glui_separator.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="glui_spinner.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="glui_statictext.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="glui_textbox.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="glui_translation.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="glui_tree.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="glui_treepanel.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="glui_window.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="quaternion.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="viewmodel.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="algebra3.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="arcball.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="glui_bitmap_img_data.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="glui_internal.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="glui_internal_control.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="quaternion.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="tinyformat.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="viewmodel.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
