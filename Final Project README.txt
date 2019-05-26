@@ -2,9 +2,9 @@ Instructions on how to run this project: (if you are on 64 bit):
 1. Open .sln in Visual Studio.
 2. BEFORE you build or run the program, change from x64 to x86 on the top of visual studio.
 3. Change from Debug to Release. (To ensure best performance)
-3. Re-target the solution to your windows version. (Right-click solution->Retarget Solution->Windows SDK Version)
-4. Rebuild entire solution.
-5. Run.
+4. Re-target the solution to your windows version. (Right-click solution->Retarget Solution->Windows SDK Version)
+5. Rebuild entire solution.
+6. Run.
 
 
 
