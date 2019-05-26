@@ -4,9 +4,11 @@ This project is derivation implementation of the paper "An Illustrative Visualiz
 
 For technical details, please refer to the [[paper]](https://github.com/michaeltran/V-3D-Vector-Visualization/blob/master/Final%20Project%20Report.pdf) and final [[presentation]](https://github.com/michaeltran/V-3D-Vector-Visualization/blob/master/Final%20Project%20Slides.pdf).
 
-![Seed](https://github.com/michaeltran/V-3D-Vector-Visualization/blob/master/Pictures/seed.png)
-![Stage1](https://github.com/michaeltran/V-3D-Vector-Visualization/blob/master/Pictures/stage1.png)
-![Stage2](https://github.com/michaeltran/V-3D-Vector-Visualization/blob/master/Pictures/stage2.png)
+| | |
+| ------------- | ------------- |
+| ![Seed](https://github.com/michaeltran/V-3D-Vector-Visualization/blob/master/Pictures/seed.png) | ![Stage1](https://github.com/michaeltran/V-3D-Vector-Visualization/blob/master/Pictures/stage1.png) |
+| ![Stage2](https://github.com/michaeltran/V-3D-Vector-Visualization/blob/master/Pictures/stage2.png) | ![Bundled](https://github.com/michaeltran/V-3D-Vector-Visualization/blob/master/Pictures/bundled.png) |
+| ![Streamtapes](https://github.com/michaeltran/V-3D-Vector-Visualization/blob/master/Pictures/streamtapes.png) | ![Streamtapes-R](https://github.com/michaeltran/V-3D-Vector-Visualization/blob/master/Pictures/streamtapes-t.png) |
 
 ## Created By
 
