@@ -6,9 +6,9 @@ For technical details, please refer to the [[paper]](https://github.com/michaelt
 
 | | |
 | ------------- | ------------- |
-| ![Seed](https://github.com/michaeltran/V-3D-Vector-Visualization/blob/master/Pictures/seed.png) | ![Stage1](https://github.com/michaeltran/V-3D-Vector-Visualization/blob/master/Pictures/stage1.png) |
-| ![Stage2](https://github.com/michaeltran/V-3D-Vector-Visualization/blob/master/Pictures/stage2.png) | ![Bundled](https://github.com/michaeltran/V-3D-Vector-Visualization/blob/master/Pictures/bundled.png) |
-| ![Streamtapes](https://github.com/michaeltran/V-3D-Vector-Visualization/blob/master/Pictures/streamtapes.png) | ![Streamtapes-R](https://github.com/michaeltran/V-3D-Vector-Visualization/blob/master/Pictures/streamtapes-t.png) |
+| <p align="center"> Seed Streamlines </p> ![Seed](https://github.com/michaeltran/V-3D-Vector-Visualization/blob/master/Pictures/seed.png) | <p align="center"> Stage 1 Clustering </p> ![Stage1](https://github.com/michaeltran/V-3D-Vector-Visualization/blob/master/Pictures/stage1.png) |
+| <p align="center"> Stage 2 Clustering </p> ![Stage2](https://github.com/michaeltran/V-3D-Vector-Visualization/blob/master/Pictures/stage2.png) | <p align="center"> Bundled Streamlines </p> ![Bundled](https://github.com/michaeltran/V-3D-Vector-Visualization/blob/master/Pictures/bundled.png) |
+| <p align="center"> Streamtapes </p> ![Streamtapes](https://github.com/michaeltran/V-3D-Vector-Visualization/blob/master/Pictures/streamtapes.png) | <p align="center"> Streamtapes (w/ Torsion) </p> ![Streamtapes-R](https://github.com/michaeltran/V-3D-Vector-Visualization/blob/master/Pictures/streamtapes-t.png) |
 
 ## Created By
 
